@@ -28,7 +28,7 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\coin\\${fileBasenameNoExtension}.exe"
+                "${workspaceFolder}\\coin\\${fileBasenameNoExtension}.exe"
             ],
             "options": {
                 "cwd": "${fileDirname}"

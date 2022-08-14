@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Aug 12 04:22:28 2022
+# Make data base, printed on Sun Aug 14 21:30:27 2022
 
 # Variables
 
@@ -99,7 +99,7 @@ DATASPELL_VM_OPTIONS = D:\BaiduNetdiskDownload\ja-netfilter-all-7d\ja-netfilter-
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_9812_WEUBONFWCBRRYRDA
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_11580_GATHZXCRACJMZNOY
 # environment
 COMPUTERNAME = DESKTOP-PVLEC7T
 # environment
@@ -219,7 +219,7 @@ PROCESSOR_LEVEL = 6
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 9812
+VSCODE_PID = 11580
 # environment
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-PVLEC7T
 # variable set hash-table stats:
@@ -231,9 +231,9 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-PVLEC7T
 
 # Directories
 
-# . (key g:/C, mtime 1660209897): 11 files, no impossibilities.
+# . (key g:/C, mtime 1660272824): 12 files, no impossibilities.
 
-# 11 files, no impossibilities in 1 directories.
+# 12 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -290,12 +290,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 18 / storage = 154 B / avg = 8 B
-# current buf: size = 8162 B / used = 154 B / count = 18 / avg = 8 B
+# strcache buffers: 1 (0) / strings = 19 / storage = 161 B / avg = 8 B
+# current buf: size = 8162 B / used = 161 B / count = 19 / avg = 8 B
 
-# strcache performance: lookups = 20 / hit rate = 10%
+# strcache performance: lookups = 21 / hit rate = 9%
 # hash-table stats:
-# Load=18/8192=0%, Rehash=0, Collisions=2/20=10%
-# Finished Make data base on Fri Aug 12 04:22:28 2022
+# Load=19/8192=0%, Rehash=0, Collisions=2/21=10%
+# Finished Make data base on Sun Aug 14 21:30:27 2022
 
  
